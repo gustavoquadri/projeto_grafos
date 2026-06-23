@@ -1,0 +1,222 @@
+﻿periodo,tempo,posse_id,equipe,tipo,origem,destino,zona_origem,zona_destino,resultado,classificacao,cenario,sob_pressao,gerou_finalizacao,gerou_gol
+1,00:04,1,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,00:12,1,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+1,00:20,1,adversario,passe,Augusto,João Lucas,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+1,00:28,1,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,01:11,2,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,01:18,2,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,01:24,2,adversario,passe,João Lucas,Glauber,MEIO_CENTRO,ATAQ_DIR,errado,perda_perigosa,5x5,False,False,False
+1,01:28,2,adversario,perda,Glauber,,ATAQ_DIR,ATAQ_DIR,perda,perda_perigosa,5x5,True,False,False
+1,01:41,3,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,01:47,3,adversario,passe,Rigotti,Glauber,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,01:52,3,adversario,passe,Glauber,João Lucas,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+1,01:59,3,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,02:09,4,nosso,passe,Marcolla,Ritter,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,02:17,4,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,False,False
+1,02:23,4,nosso,passe,Marcolla,Barbosinha,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+1,02:27,4,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,03:04,5,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,03:12,5,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,03:20,5,nosso,passe,Barbosinha,Fogaça,MEIO_CENTRO,ATAQ_ESQ,errado,perda_perigosa,5x5,True,False,False
+1,03:28,5,nosso,perda,Fogaça,,ATAQ_ESQ,ATAQ_ESQ,perda,perda_perigosa,5x5,True,False,False
+1,03:43,6,nosso,passe,Ritter,Fogaça,DEF_CENTRO,MEIO_ESQ,certo,seguranca,5x5,False,False,False
+1,03:50,6,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+1,03:57,6,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,04:11,7,nosso,passe,Fogaça,Ritter,MEIO_ESQ,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,04:15,7,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,04:21,7,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+1,04:26,7,nosso,finalizacao,Barbosinha,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,04:49,8,nosso,passe,Marcolla,Ritter,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,04:55,8,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,05:01,8,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,True,False
+1,05:05,9,adversario,passe,Rigotti,Augusto,DEF_CENTRO,MEIO_ESQ,certo,seguranca,5x5,False,False,False
+1,05:06,8,nosso,finalizacao,Barbosinha,,AREA,AREA,finalizacao,finalizacao,5x5,False,True,False
+1,05:10,9,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+1,05:17,9,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,False,True,False
+1,06:11,10,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,06:15,10,adversario,passe,João Lucas,Augusto,MEIO_CENTRO,ATAQ_ESQ,errado,perda_perigosa,5x5,False,False,False
+1,06:19,10,adversario,perda,Augusto,,ATAQ_ESQ,ATAQ_ESQ,perda,perda_perigosa,5x5,True,False,False
+1,07:18,11,adversario,passe,Rigotti,Glauber,DEF_CENTRO,MEIO_DIR,certo,seguranca,5x5,False,False,False
+1,07:25,11,adversario,passe,Glauber,João Lucas,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+1,07:29,11,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,07:34,12,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,07:38,12,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,07:43,12,adversario,passe,João Lucas,Augusto,MEIO_CENTRO,ATAQ_ESQ,errado,perda_perigosa,5x5,True,False,False
+1,07:48,12,adversario,perda,Augusto,,ATAQ_ESQ,ATAQ_ESQ,perda,perda_perigosa,5x5,True,False,False
+1,08:05,13,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,08:13,13,adversario,passe,João Lucas,Glauber,ATAQ_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,True,False
+1,08:18,13,adversario,finalizacao,Glauber,,ATAQ_DIR,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,08:19,14,nosso,passe,Fogaça,Ritter,MEIO_ESQ,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,08:26,14,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,False,False
+1,08:33,14,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,True,True
+1,08:41,14,nosso,finalizacao,Barbosinha,,AREA,AREA,gol,finalizacao,5x5,True,True,True
+1,09:07,15,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,09:11,15,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,09:15,15,nosso,passe,Marcolla,Barbosinha,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+1,09:20,15,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,09:42,16,nosso,passe,Ritter,Marcolla,DEF_CENTRO,MEIO_DIR,certo,seguranca,5x5,False,False,False
+1,09:48,16,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,09:55,16,nosso,recuperacao,Marcolla,,MEIO_DIR,MEIO_DIR,certo,recuperacao,5x5,False,False,False
+1,10:08,17,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,10:14,17,nosso,passe,Barbosinha,Marcolla,ATAQ_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,10:19,17,nosso,recuperacao,Fogaça,,MEIO_ESQ,MEIO_ESQ,certo,recuperacao,5x5,False,False,False
+1,11:11,18,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,11:16,18,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+1,11:24,18,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,True,True,False
+1,11:30,18,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,11:50,19,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,11:55,19,adversario,passe,Rigotti,Glauber,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,12:01,19,adversario,passe,Glauber,João Lucas,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+1,12:08,19,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,12:10,20,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,12:14,20,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,12:19,20,nosso,passe,Marcolla,Barbosinha,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+1,12:23,20,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,12:50,21,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,12:56,21,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+1,13:03,21,nosso,passe,Fogaça,Barbosinha,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+1,13:05,22,nosso,passe,Ritter,Marcolla,DEF_CENTRO,MEIO_DIR,certo,seguranca,5x5,True,False,False
+1,13:08,21,nosso,finalizacao,Barbosinha,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,13:10,22,nosso,passe,Marcolla,Barbosinha,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+1,13:16,22,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,14:08,23,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,14:14,23,adversario,passe,Rigotti,Glauber,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,False,False
+1,14:20,23,adversario,passe,Glauber,João Lucas,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,True,True
+1,14:28,23,adversario,finalizacao,João Lucas,,AREA,AREA,gol,finalizacao,5x5,True,True,True
+1,15:09,24,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,15:17,24,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,15:22,24,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,15:26,24,nosso,recuperacao,Fogaça,,MEIO_ESQ,MEIO_ESQ,certo,recuperacao,5x5,False,False,False
+1,16:14,25,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+1,16:21,25,adversario,passe,João Lucas,Glauber,ATAQ_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,True,False
+1,16:26,25,adversario,finalizacao,Glauber,,ATAQ_DIR,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,17:12,26,nosso,passe,Ritter,Fogaça,DEF_CENTRO,MEIO_ESQ,certo,seguranca,5x5,False,False,False
+1,17:18,26,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+1,17:26,26,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,17:33,27,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+1,17:40,27,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+1,17:44,27,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,True,True,False
+1,17:52,27,nosso,finalizacao,Barbosinha,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+1,18:11,28,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+1,18:15,28,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,False,False
+1,18:22,28,nosso,passe,Marcolla,Barbosinha,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+1,18:30,28,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+1,19:16,29,adversario,passe,Rigotti,Glauber,DEF_CENTRO,MEIO_DIR,certo,seguranca,5x5,False,False,False
+1,19:22,29,adversario,passe,Glauber,João Lucas,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+1,19:30,29,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,00:11,30,adversario,passe,Augusto,Rigotti,MEIO_ESQ,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+2,00:16,30,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+2,00:23,30,adversario,passe,Augusto,João Lucas,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+2,00:30,30,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,00:35,31,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,00:42,31,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,False,False,False
+2,00:49,31,nosso,passe,Barbosinha,Marcolla,MEIO_CENTRO,ATAQ_DIR,errado,perda_perigosa,5x5,True,False,False
+2,00:54,32,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,00:57,31,nosso,perda,Marcolla,,ATAQ_DIR,ATAQ_DIR,perda,perda_perigosa,5x5,True,False,False
+2,01:01,32,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,True,True
+2,01:06,32,nosso,finalizacao,Fogaça,,ATAQ_ESQ,AREA,gol,finalizacao,5x5,False,True,True
+2,02:18,33,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,02:23,33,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,02:29,33,adversario,passe,João Lucas,Augusto,ATAQ_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,True,False
+2,02:36,33,adversario,finalizacao,Augusto,,ATAQ_ESQ,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,02:45,34,nosso,passe,Ritter,Fogaça,DEF_CENTRO,MEIO_ESQ,certo,seguranca,5x5,True,False,False
+2,02:49,34,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+2,02:54,34,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,03:14,35,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+2,03:20,35,adversario,passe,Rigotti,Glauber,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+2,03:27,35,adversario,passe,Glauber,João Lucas,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+2,03:32,35,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,03:36,36,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,03:42,36,nosso,passe,Barbosinha,Fogaça,ATAQ_CENTRO,ATAQ_ESQ,certo,ruptura,5x5,False,True,False
+2,03:46,36,nosso,finalizacao,Fogaça,,ATAQ_ESQ,AREA,finalizacao,finalizacao,5x5,False,True,False
+2,04:05,37,nosso,passe,Marcolla,Ritter,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,04:13,37,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+2,04:18,37,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+2,04:22,37,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,05:11,38,adversario,passe,Glauber,Rigotti,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,05:17,38,adversario,passe,Rigotti,Glauber,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,True,False,False
+2,05:25,38,adversario,passe,Glauber,João Lucas,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+2,05:31,38,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,05:40,39,nosso,passe,Marcolla,Ritter,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+2,05:44,39,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+2,05:51,39,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+2,05:57,39,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,06:09,40,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,06:14,40,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,06:22,40,nosso,passe,Barbosinha,Fogaça,ATAQ_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,True,False
+2,06:27,40,nosso,finalizacao,Fogaça,,ATAQ_ESQ,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,07:15,41,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+2,07:20,41,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+2,07:24,41,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,False,False,False
+2,07:29,41,adversario,recuperacao,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,certo,recuperacao,5x5,False,False,False
+2,07:49,42,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,07:56,42,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,True,False,False
+2,08:00,42,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,True,False,False
+2,08:04,42,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,08:14,43,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,08:21,43,nosso,passe,Barbosinha,Marcolla,ATAQ_CENTRO,ATAQ_DIR,certo,ruptura,5x5,False,True,False
+2,08:28,43,nosso,finalizacao,Marcolla,,ATAQ_DIR,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,08:34,44,adversario,passe,Rigotti,Augusto,DEF_CENTRO,MEIO_ESQ,certo,seguranca,5x5,True,False,False
+2,08:38,44,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,True,True,False
+2,08:45,44,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,09:08,45,nosso,passe,Marcolla,Ritter,MEIO_DIR,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,09:13,45,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+2,09:19,45,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,5x5,False,False,False
+2,09:23,45,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,5x5,True,False,False
+2,10:16,46,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,10:23,46,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,10:31,46,adversario,passe,João Lucas,Augusto,ATAQ_CENTRO,ATAQ_ESQ,certo,ruptura,5x5,True,True,False
+2,10:37,46,adversario,finalizacao,Augusto,,ATAQ_ESQ,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,10:42,47,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,10:50,47,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,10:57,47,nosso,passe,Barbosinha,Marcolla,MEIO_CENTRO,ATAQ_DIR,errado,perda_perigosa,5x5,False,False,False
+2,11:04,47,nosso,perda,Marcolla,,ATAQ_DIR,ATAQ_DIR,perda,perda_perigosa,5x5,True,False,False
+2,11:05,48,adversario,passe,Augusto,Rigotti,MEIO_ESQ,MEIO_CENTRO,certo,seguranca,5x5,False,False,False
+2,11:11,48,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+2,11:18,48,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+2,11:26,48,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,11:31,49,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,False,False,False
+2,11:35,49,nosso,passe,Barbosinha,Fogaça,ATAQ_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+2,11:43,49,nosso,passe,Fogaça,Barbosinha,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,True,True,True
+2,11:47,49,nosso,finalizacao,Barbosinha,,AREA,AREA,gol,finalizacao,5x5,True,True,True
+2,12:16,50,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,12:24,50,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+2,12:29,50,adversario,passe,Augusto,João Lucas,ATAQ_ESQ,ATAQ_CENTRO,certo,pivo,5x5,True,True,False
+2,12:33,50,adversario,finalizacao,João Lucas,,AREA,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,12:48,51,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,False,False,False
+2,12:55,51,nosso,passe,Barbosinha,Fogaça,ATAQ_CENTRO,ATAQ_ESQ,certo,progressivo,5x5,False,False,False
+2,13:02,51,nosso,recuperacao,Marcolla,,MEIO_DIR,MEIO_DIR,certo,recuperacao,5x5,False,False,False
+2,13:06,52,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,5x5,True,False,False
+2,13:12,52,nosso,passe,Ritter,Marcolla,MEIO_CENTRO,ATAQ_DIR,certo,progressivo,5x5,False,False,False
+2,13:20,52,nosso,passe,Marcolla,Barbosinha,ATAQ_DIR,ATAQ_CENTRO,certo,pivo,5x5,False,True,False
+2,13:27,52,nosso,finalizacao,Barbosinha,,AREA,AREA,finalizacao,finalizacao,5x5,False,True,False
+2,13:45,53,nosso,passe,Ritter,Barbosinha,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,True,False,False
+2,13:52,53,nosso,passe,Barbosinha,Marcolla,ATAQ_CENTRO,ATAQ_DIR,certo,ruptura,5x5,False,True,False
+2,13:59,53,nosso,finalizacao,Marcolla,,ATAQ_DIR,AREA,finalizacao,finalizacao,5x5,True,True,False
+2,14:17,54,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,5x5,False,False,False
+2,14:21,54,adversario,passe,João Lucas,Augusto,MEIO_CENTRO,ATAQ_ESQ,errado,perda_perigosa,5x5,False,False,False
+2,14:28,54,adversario,perda,Augusto,,ATAQ_ESQ,ATAQ_ESQ,perda,perda_perigosa,5x5,True,False,False
+2,15:06,55,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,goleiro_linha_adv,False,False,False
+2,15:13,55,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,goleiro_linha_adv,False,False,False
+2,15:17,55,adversario,passe,João Lucas,Glauber,ATAQ_CENTRO,ATAQ_DIR,certo,progressivo,goleiro_linha_adv,True,True,False
+2,15:23,55,adversario,finalizacao,Glauber,,ATAQ_DIR,AREA,finalizacao,finalizacao,goleiro_linha_adv,False,True,False
+2,15:58,56,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,goleiro_linha_adv,False,False,False
+2,16:02,56,adversario,passe,Rigotti,Augusto,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,goleiro_linha_adv,True,False,False
+2,16:06,56,adversario,passe,Augusto,Glauber,ATAQ_ESQ,ATAQ_DIR,certo,ruptura,goleiro_linha_adv,True,True,True
+2,16:11,56,adversario,finalizacao,Glauber,,ATAQ_DIR,AREA,gol,finalizacao,goleiro_linha_adv,True,True,True
+2,17:14,57,adversario,passe,Dudu,Rigotti,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,goleiro_linha_adv,True,False,False
+2,17:18,57,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,goleiro_linha_adv,False,False,False
+2,17:25,57,adversario,passe,João Lucas,Glauber,MEIO_CENTRO,ATAQ_DIR,errado,perda_perigosa,goleiro_linha_adv,False,False,False
+2,17:33,57,adversario,perda,Glauber,,ATAQ_DIR,ATAQ_DIR,perda,perda_perigosa,goleiro_linha_adv,True,False,False
+2,17:38,58,adversario,passe,Rigotti,Glauber,DEF_CENTRO,MEIO_DIR,certo,seguranca,goleiro_linha_adv,False,False,False
+2,17:45,58,adversario,passe,Glauber,João Lucas,MEIO_DIR,ATAQ_CENTRO,errado,perda_perigosa,goleiro_linha_adv,True,False,False
+2,17:52,58,adversario,perda,João Lucas,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,goleiro_linha_adv,True,False,False
+2,18:13,59,nosso,passe,Ritter,Fogaça,DEF_CENTRO,MEIO_ESQ,certo,seguranca,goleiro_linha_adv,False,False,False
+2,18:19,59,nosso,passe,Fogaça,Barbosinha,MEIO_ESQ,ATAQ_CENTRO,errado,perda_perigosa,goleiro_linha_adv,True,False,False
+2,18:24,59,nosso,perda,Barbosinha,,ATAQ_CENTRO,ATAQ_CENTRO,perda,perda_perigosa,goleiro_linha_adv,True,False,False
+2,18:42,60,adversario,passe,Rigotti,João Lucas,MEIO_CENTRO,ATAQ_CENTRO,certo,pivo,goleiro_linha_adv,True,False,False
+2,18:47,60,adversario,passe,João Lucas,Augusto,ATAQ_CENTRO,ATAQ_ESQ,certo,ruptura,goleiro_linha_adv,True,True,False
+2,18:54,60,adversario,finalizacao,Augusto,,ATAQ_ESQ,AREA,finalizacao,finalizacao,goleiro_linha_adv,True,True,False
+2,19:06,61,nosso,passe,Ângelo,Ritter,DEF_CENTRO,MEIO_CENTRO,certo,seguranca,goleiro_linha_adv,False,False,False
+2,19:12,61,nosso,passe,Ritter,Fogaça,MEIO_CENTRO,ATAQ_ESQ,certo,progressivo,goleiro_linha_adv,True,True,True
+2,19:16,61,nosso,finalizacao,Fogaça,,ATAQ_ESQ,AREA,gol,finalizacao,goleiro_linha_adv,True,True,True
